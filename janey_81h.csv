@@ -1,0 +1,615 @@
+well_name,hour,date,csg_psi,tbg_psi,choke1,sep_psi,battery_sep_psi,oil,water,gas,wellhead_temp,flowline_psi,chlorides,sand,h2s,remarks,choke2
+Janey 81h,1,43611.95833,2641,0,16,0,0,0,130,0,107,0,0,0,0,opened well at 2215hrs. Flowing thru casing to manifold to tanks.,0
+Janey 81h,2,43612,2568,0,16,0,0,0,126,0,105,0,0,0,0,Flowing thru casing to manifold to tanks.,0
+Janey 81h,3,43612.04167,2553,0,16,0,0,0,122,0,108,0,0,0,0,Flowing thru casing to manifold to tanks.,0
+Janey 81h,4,43612.08333,2542,0,19,0,0,0,85,0,110,0,0,0,0,Flowing thru casing to manifold to tanks. Changed chokes 19/128,0
+Janey 81h,5,43612.125,2541,0,21,0,0,0,110,0,108,0,23052,0,0,Flowing thru casing to manifold to tanks. Changed chokes 21/128,0
+Janey 81h,6,43612.16667,2600,0,24,0,0,0,110,0,109,0,23052,0,0,Flowing thru casing to manifold to tanks.  Changed chokes to 23/128,0
+Janey 81h,7,43612.20833,2619,0,24,0,0,0,123,0,101,0,23052,0,0,Flowing thru casing to manifold to tanks.  Changed chokes to 24/128,0
+Janey 81h,8,43612.25,2603,0,24,0,0,0,125,0,91,0,23052,0,0,Flowing thru casing to sand trap to manifold to separator to tanks.,0
+Janey 81h,9,43612.29167,2607,0,26,188,0,0,145,0,96,0,23052,0.25,0,Flowing thru casing to sand trap to manifold to separator to tanks.,0
+Janey 81h,10,43612.33333,2622,0,26,182,0,0,144,960,104,100,23052,0.25,0,"Flowing Well trhough SKO, manifold and separator. Sent gast to facility at 8:00am",0
+Janey 81h,11,43612.375,2641,0,26,186,0,2,158,984,113,100,23052,0.25,0,"Flowing well through SKO, manifold and separator, Gat to facility.",0
+Janey 81h,12,43612.41667,2630,0,26,188,79,3,145,1003,118,100,23052,0.5,0,"Flowing well through SKO, manifold and separator, Gat to facility.",0
+Janey 81h,13,43612.45833,2630,0,26,194,80,4,141,1008,119,100,20741,0.5,0,"Flowing well through SKO, manifold and separator, Gat to facility.",0
+Janey 81h,14,43612.5,2624,0,26,188,79,4,146,864,120,100,20741,0.5,0,"Flowing well through SKO, manifold and separator, Gat to facility.",0
+Janey 81h,15,43612.54167,2612,0,26,197,124,7,146,792,122,100,20741,0.5,0,"Flowing Well through SKO, manifold and separator, Gat to facility. Bumped choke up to 28 size.",0
+Janey 81h,16,43612.58333,2616,0,28,198,116,10,151,1224,125,105,20741,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.",0
+Janey 81h,17,43612.625,2620,0,28,198,118,8,172,1152,128,105,20741,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.",0
+Janey 81h,18,43612.66667,2617,0,28,199,109,10,186,1128,129,90,20742,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.",0
+Janey 81h,19,43612.70833,2620,0,28,197,110,14,159,1393,130,90,20743,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.",0
+Janey 81h,20,43612.75,2619,0,28,186,100,17,187,1248,128,130,20743,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.  Replaced anolog guage on flow line.",0
+Janey 81h,21,43612.79167,2622,0,28,195,101,20,167,1248,130,110,20743,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.",0
+Janey 81h,22,43612.83333,2621,0,28,196,103,24,150,1272,132,100,20743,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.",0
+Janey 81h,23,43612.875,2618,0,28,190,95,28,143,1296,127,115,20743,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.",0
+Janey 81h,24,43612.91667,2615,0,28,198,107,28,156,1248,123,120,20743,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.",0
+Janey 81h,25,43612.95833,2614,0,28,196,128,30,154,1176,122,135,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.",0
+Janey 81h,26,43613,2612,0,28,195,129,37,155,1224,121,140,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.",0
+Janey 81h,27,43613.04167,2611,0,28,196,128,40,155,1224,121,140,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.",0
+Janey 81h,28,43613.08333,2609,0,28,195,129,40,149,1224,123,140,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.",0
+Janey 81h,29,43613.125,2606,0,28,197,130,40,152,1224,121,145,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.",0
+Janey 81h,30,43613.16667,2604,0,28,195,124,41,151,1296,120,145,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.",0
+Janey 81h,31,43613.20833,2600,0,28,208,124,40,153,1248,119,145,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.",0
+Janey 81h,32,43613.25,2595,0,28,190,128,40,155,1349,120,150,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.",0
+Janey 81h,33,43613.29167,2594,0,28,195,127,39,134,1296,118,145,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.",0
+Janey 81h,34,43613.33333,2586,0,28,195,130,37,152,1248,118,145,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility. ",0
+Janey 81h,35,43613.375,2574,0,28,195,132,41,168,1296,121,140,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility. ",0
+Janey 81h,36,43613.41667,2578,0,28,195,121,42,165,1368,121,140,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility. ",0
+Janey 81h,37,43613.45833,2578,0,28,196,113,42,166,1464,120,125,20741,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility. ",0
+Janey 81h,38,43613.5,2577,0,28,196,115,42,168,1488,121,130,20741,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility. ",0
+Janey 81h,39,43613.54167,2576,0,28,195,113,42,166,1488,123,125,20742,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility. ",0
+Janey 81h,40,43613.58333,2574,0,28,193,109,43,159,1584,125,120,20743,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility. ",0
+Janey 81h,41,43613.625,2565,0,28,207,110,42,159,1464,124,125,20744,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility. Well on tank test at 3:00 pm to 4:00 pm",0
+Janey 81h,42,43613.66667,2562,0,28,195,103,30,154,1512,124,110,20745,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility. Well on tank test at 3:00 pm to 4:00 pm",0
+Janey 81h,43,43613.70833,2561,0,28,195,106,30,171,1416,124,110,20746,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility. ",0
+Janey 81h,44,43613.75,2559,0,28,196,112,31,160,1344,122,120,20747,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.  ",0
+Janey 81h,45,43613.79167,2549,0,28,195,106,36,160,1440,129,120,20747,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.  ",0
+Janey 81h,46,43613.83333,2551,0,29,202,109,35,162,1608,128,130,20747,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.  Bumped chokes to 29/168",0
+Janey 81h,47,43613.875,2554,0,29,197,113,37,158,1632,126,120,20747,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.  ",0
+Janey 81h,48,43613.91667,2543,0,30,200,112,43,193,1848,123,125,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.  Choke change to 30/168.  dumping sand traps every 30 minutes.",0
+Janey 81h,49,43613.95833,2544,0,30,202,114,42,173,1824,125,125,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   dumping sand traps every 30 minutes.",0
+Janey 81h,50,43614,2545,0,30,197,111,44,183,1896,122,125,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   dumping sand traps every 30 minutes.",0
+Janey 81h,51,43614.04167,2542,0,30,201,115,43,174,1872,124,120,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   dumping sand traps every 30 minutes.",0
+Janey 81h,52,43614.08333,2542,0,30,197,113,44,177,1896,124,130,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   dumping sand traps every 30 minutes.",0
+Janey 81h,53,43614.125,2540,0,30,196,116,45,177,1994,124,130,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   dumping sand traps every 30 minutes.",0
+Janey 81h,54,43614.16667,2539,0,30,198,114,44,184,1920,122,130,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   dumping sand traps every 30 minutes.",0
+Janey 81h,55,43614.20833,2539,0,30,197,111,44,175,1920,123,130,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   dumping sand traps every 30 minutes.",0
+Janey 81h,56,43614.25,2535,0,30,197,113,42,173,1872,122,130,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   dumping sand traps every 30 minutes.",0
+Janey 81h,57,43614.29167,2532,0,30,195,115,41,175,1872,123,130,20747,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps every hour.  ",0
+Janey 81h,58,43614.33333,2532,0,30,195,116,43,173,1896,124,125,20747,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps every hour.  ",0
+Janey 81h,59,43614.375,2529,0,30,207,114,44,178,1896,123,125,20747,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps every hour.  ",0
+Janey 81h,60,43614.41667,2526,0,30,197,114,40,183,1800,124,125,20747,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps every hour.  ",0
+Janey 81h,61,43614.45833,2527,0,30,197,115,43,167,1896,123,120,20741,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps every hour.  ",0
+Janey 81h,62,43614.5,2525,0,30,198,116,46,159,1992,120,125,20741,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps every hour.  ",0
+Janey 81h,63,43614.54167,2520,0,30,192,111,43,186,1920,127,130,20742,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps every hour.  ",0
+Janey 81h,64,43614.58333,2518,0,30,199,115,46,158,2232,130,130,20743,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps every hour.  ",0
+Janey 81h,65,43614.625,2517,0,30,198,118,44,170,1968,128,130,20744,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps every hour.  ",0
+Janey 81h,66,43614.66667,2514,0,30,198,116,46,176,2088,127,130,20745,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps every hour.  ",0
+Janey 81h,67,43614.70833,2513,0,30,199,115,43,177,1944,127,130,20746,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps every hour.  ",0
+Janey 81h,68,43614.75,2508,0,30,204,117,48,174,2160,131,130,20747,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps every hour.  ",0
+Janey 81h,69,43614.79167,2504,0,30,198,124,45,169,2016,131,140,20747,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps every hour.  ",0
+Janey 81h,70,43614.83333,2501,0,30,198,122,47,174,2088,132,140,20747,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps every hour.  ",0
+Janey 81h,71,43614.875,2500,0,30,198,123,47,161,1968,129,130,20747,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps every hour.  ",0
+Janey 81h,72,43614.91667,2499,0,30,197,120,45,175,2016,126,135,20747,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps every hour.  ",0
+Janey 81h,73,43614.95833,2499,0,30,197,120,48,171,2040,124,135,20747,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps every hour.  ",0
+Janey 81h,74,43615,2493,0,30,204,119,46,171,2016,122,130,20747,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps every hour.  ",0
+Janey 81h,75,43615.04167,2487,0,30,198,113,47,170,2016,123,130,20747,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps every hour.  ",0
+Janey 81h,76,43615.08333,2482,0,30,198,114,46,162,1992,123,130,20747,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps every hour.  ",0
+Janey 81h,77,43615.125,2480,0,30,198,118,48,170,2040,122,130,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.  ",0
+Janey 81h,78,43615.16667,2478,0,30,197,120,47,163,2040,124,130,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.  ",0
+Janey 81h,79,43615.20833,2484,0,30,198,116,48,174,2088,124,130,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.  ",0
+Janey 81h,80,43615.25,2485,0,30,203,111,40,175,1872,125,135,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.  ",0
+Janey 81h,81,43615.29167,2482,0,30,198,115,45,172,1992,123,130,20747,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.  ",0
+Janey 81h,82,43615.33333,2481,0,30,198,117,45,168,2016,122,130,20747,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps every  hour.  ",0
+Janey 81h,83,43615.375,2481,0,30,197,116,44,170,2016,121,130,20747,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps every  hour.  ",0
+Janey 81h,84,43615.41667,2479,0,32,196,109,44,183,2088,122,130,20747,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour. Bumped choke up to 32 size.  ",0
+Janey 81h,85,43615.45833,2459,0,32,199,122,55,185,2328,124,130,20747,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.  ",0
+Janey 81h,86,43615.5,2460,0,32,206,119,53,190,2256,126,130,20747,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.  Bumped choke up to 33 size at 11: am",0
+Janey 81h,87,43615.54167,2451,0,33,205,131,55,195,2256,125,165,20747,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an hour, sent water to batery at 11:00 am ",0
+Janey 81h,88,43615.58333,2449,0,33,204,144,58,212,2256,126,165,20747,1.5,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,89,43615.625,2445,0,33,211,143,54,211,2304,126,165,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,90,43615.66667,2443,0,33,210,138,55,220,2208,125,160,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,91,43615.70833,2440,0,33,205,139,55,208,2356,124,165,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,92,43615.75,2435,0,33,209,139,57,210,2304,127,170,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,93,43615.79167,2434,0,33,209,137,56,188,2416,127,170,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,94,43615.83333,2432,0,33,206,136,59,191,2568,125,170,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,95,43615.875,2429,0,33,206,132,60,192,2592,124,175,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,96,43615.91667,2428,0,33,206,137,59,196,2640,124,175,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,97,43615.95833,2424,0,33,208,138,57,180,2616,123,180,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,98,43616,2420,0,33,208,135,61,175,2592,120,180,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,99,43616.04167,2418,0,33,204,135,59,175,2640,124,185,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,100,43616.08333,2419,0,33,206,133,59,194,2664,124,170,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,101,43616.125,2418,0,33,204,135,58,180,2664,124,170,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,102,43616.16667,2417,0,33,205,132,62,186,2640,123,170,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,103,43616.20833,2413,0,33,205,126,64,189,2688,122,165,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,104,43616.25,2412,0,33,200,132,65,190,2672,123,160,20747,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,105,43616.29167,2410,0,33,199,131,60,201,2664,123,160,20741,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,106,43616.33333,2408,0,33,201,129,63,200,2688,124,165,20741,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,107,43616.375,2407,0,33,198,130,60,202,2640,124,160,20741,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,108,43616.41667,2403,0,33,202,128,61,200,2752,123,160,20741,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,109,43616.45833,2401,0,33,206,125,60,191,2544,127,160,20741,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,110,43616.5,2301,0,33,201,130,64,200,2752,126,160,20741,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,111,43616.54167,2397,0,33,200,132,46,189,2376,128,160,20741,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,112,43616.58333,2395,0,33,203,144,64,195,2474,130,170,20741,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,113,43616.625,2393,0,33,204,148,53,206,2448,132,170,20741,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,114,43616.66667,2388,0,33,215,149,63,209,2712,130,175,20741,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,115,43616.70833,2385,0,33,215,140,61,199,2808,130,170,20741,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,116,43616.75,2379,0,33,212,142,65,187,2832,127,180,20741,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,117,43616.79167,2377,0,33,203,140,71,183,2712,127,175,20741,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,118,43616.83333,2377,0,33,205,138,69,201,2856,125,170,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,119,43616.875,2377,0,33,205,135,71,201,2760,125,170,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,120,43616.91667,2375,0,33,204,135,73,186,2712,127,175,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,121,43616.95833,2372,0,33,204,129,72,175,2784,125,175,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,122,43617,2370,0,33,201,134,72,190,2760,124,170,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,123,43617.04167,2368,0,33,201,119,72,181,2832,124,170,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,124,43617.08333,2364,0,33,208,138,76,185,2784,125,170,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,125,43617.125,2364,0,33,204,137,75,186,2784,124,175,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,126,43617.16667,2362,0,33,205,133,77,177,2784,123,170,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice an  hour.",0
+Janey 81h,127,43617.20833,2359,0,33,201,134,73,194,2880,125,165,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once an  hour.",0
+Janey 81h,128,43617.25,2357,0,33,202,134,75,193,2765,123,165,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,129,43617.29167,2350,0,33,204,136,73,195,2832,123,165,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.bumped up choke to a 35 size at 7:40am.",0
+Janey 81h,130,43617.33333,2343,0,35,203,137,79,198,2688,124,165,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour. ",0
+Janey 81h,131,43617.375,2331,0,35,203,143,86,209,2952,126,165,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,132,43617.41667,2331,0,35,201,144,82,210,3144,125,165,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,133,43617.45833,2327,0,35,202,146,83,216,3288,126,165,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,134,43617.5,2323,0,35,222,144,81,214,2784,127,165,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,135,43617.54167,2321,0,35,210,150,84,192,3168,131,165,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,136,43617.58333,2318,0,35,216,148,83,198,3096,130,170,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,137,43617.625,2317,0,35,222,146,83,198,3096,130,180,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,138,43617.66667,2315,0,35,236,159,84,199,3240,131,190,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,139,43617.70833,2314,0,35,228,149,81,206,3024,131,190,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,140,43617.75,2313,0,35,226,149,82,202,3024,128,185,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,141,43617.79167,2307,0,35,213,137,84,202,3348,120,190,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,142,43617.83333,2304,0,35,206,139,83,200,3192,122,165,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,143,43617.875,2302,0,35,205,128,89,206,3216,124,180,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,144,43617.91667,2298,0,35,219,133,83,200,3168,125,175,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,145,43617.95833,2294,0,35,216,121,86,200,3168,128,175,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,146,43618,2293,0,35,219,130,82,195,3168,125,175,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,147,43618.04167,2290,0,35,219,132,82,195,3240,123,175,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,148,43618.08333,2287,0,35,221,129,84,196,3168,124,175,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,149,43618.125,2285,0,35,200,134,88,199,3168,128,175,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,150,43618.16667,2283,0,35,219,132,84,196,3192,125,175,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,151,43618.20833,2279,0,35,209,131,88,201,3216,124,180,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,152,43618.25,2275,0,35,210,138,86,198,2904,123,180,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,153,43618.29167,2271,0,35,216,140,84,204,3288,127,180,26692,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,154,43618.33333,2266,0,35,226,133,81,210,3000,127,185,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps onece a hour.",0
+Janey 81h,155,43618.375,2262,0,35,234,139,84,207,3048,130,185,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps onece a hour.",0
+Janey 81h,156,43618.41667,2257,0,35,222,144,80,200,2144,129,185,26692,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps onece a hour. Bumped up choke to a 36/128at 10:40 am  to keep up with the 300 bbl's rate total fluids.",0
+Janey 81h,157,43618.45833,2251,0,36,237,148,84,204,3168,130,185,26520,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,158,43618.5,2247,0,36,236,147,88,205,3528,131,185,26520,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,159,43618.54167,2245,0,36,237,146,87,201,3072,127,190,26520,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,160,43618.58333,2243,0,36,236,153,88,201,3312,129,190,26520,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,161,43618.625,2241,0,36,237,150,87,202,2138,130,190,26520,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,162,43618.66667,2238,0,36,238,146,87,201,3360,127,190,26520,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,163,43618.70833,2235,0,36,237,153,88,197,3336,129,190,26520,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,164,43618.75,2232,0,36,243,160,90,206,3384,123,190,26520,2,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps twice a hour.",0
+Janey 81h,165,43618.79167,2227,0,36,241,151,86,204,3264,127,190,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,166,43618.83333,2226,0,36,224,150,91,203,3264,127,190,27905,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,167,43618.875,2220,0,36,244,154,92,210,3336,125,190,27905,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour. Bumped up choke to 37/128.",0
+Janey 81h,168,43618.91667,2210,0,37,242,152,97,212,3456,124,190,27905,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,169,43618.95833,2208,0,37,241,153,99,213,3456,125,190,27905,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,170,43619,2207,0,37,247,152,100,215,3432,120,195,27905,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,171,43619.04167,2203,0,37,222,153,100,217,3480,126,200,27905,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,172,43619.08333,2199,0,37,250,155,96,202,3528,124,200,27905,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,173,43619.125,2196,0,37,249,149,100,217,3456,126,200,27905,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,174,43619.16667,2194,0,37,247,158,96,212,3552,123,200,27905,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,175,43619.20833,2188,0,37,247,154,100,208,3432,124,200,27905,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,176,43619.25,2184,0,37,249,155,99,210,3288,123,195,27905,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,177,43619.29167,2182,0,37,250,151,102,211,3696,127,200,27905,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,178,43619.33333,2181,0,37,246,158,101,210,3480,127,200,27905,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,179,43619.375,2179,0,37,248,156,100,108,3420,126,200,27905,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,180,43619.41667,2178,0,37,251,159,102,212,3456,129,200,27905,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,181,43619.45833,2177,0,37,249,161,102,211,3544,130,200,25481,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,182,43619.5,2175,0,37,250,158,101,215,3610,130,200,25481,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,183,43619.54167,2171,0,37,161,172,100,211,3528,131,205,25481,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,184,43619.58333,2166,0,37,263,173,101,207,3552,132,210,25481,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,185,43619.625,2160,0,37,259,169,100,200,3336,130,210,25481,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,186,43619.66667,2156,0,37,255,167,99,200,3335,131,210,25481,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,187,43619.70833,2154,0,37,255,164,100,225,3520,132,210,25481,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,188,43619.75,2149,0,37,254,159,98,208,3480,131,200,25481,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,189,43619.79167,2145,0,37,249,159,95,210,3504,131,200,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,190,43619.83333,2126,0,39,263,164,110,219,3840,130,215,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.  Choke changed to get rate.",0
+Janey 81h,191,43619.875,2125,0,39,264,160,110,226,3744,128,210,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,192,43619.91667,2120,0,39,261,158,110,227,3888,128,210,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,193,43619.95833,2116,0,39,260,155,111,231,3888,127,210,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,194,43620,2115,0,39,257,159,110,229,3768,125,210,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,195,43620.04167,2111,0,39,254,159,111,217,3936,127,200,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,196,43620.08333,2109,0,39,252,158,109,219,3888,127,210,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,197,43620.125,2107,0,39,262,161,110,220,3768,125,220,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,198,43620.16667,2102,0,39,258,167,113,233,3912,126,210,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,199,43620.20833,2097,0,39,251,161,111,227,3864,125,210,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.   Dumping sand traps once a hour.",0
+Janey 81h,200,43620.25,2093,0,39,254,161,114,220,3912,126,210,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, Oil and H2O to facility.   Dumping sand traps once a hour.",0
+Janey 81h,201,43620.29167,2089,0,39,259,165,110,214,3696,130,210,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, Oil and H2O to facility.   Dumping sand traps once a hour.",0
+Janey 81h,202,43620.33333,2085,0,39,261,179,109,212,3792,131,210,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, Oil and H2O to facility.   Dumping sand traps once a hour.",0
+Janey 81h,203,43620.375,2081,0,39,258,175,110,218,3816,130,210,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, Oil and H2O to facility.   Dumping sand traps once a hour.",0
+Janey 81h,204,43620.41667,2079,0,39,260,176,111,218,3720,132,210,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, Oil and H2O to facility.   Dumping sand traps once a hour.",0
+Janey 81h,205,43620.45833,2075,0,39,237,174,108,218,3816,131,200,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas and  Oil  to facility.   Dumping sand traps once a hour. H2O switched back to frac tanks at 10:30 am.",0
+Janey 81h,206,43620.5,2072,0,39,239,132,108,220,3792,132,200,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas and  Oil  to facility.   Dumping sand traps once a hour. ",0
+Janey 81h,207,43620.54167,2070,0,39,236,174,105,222,3840,134,200,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,208,43620.58333,2067,0,39,240,171,106,220,3816,135,200,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,209,43620.625,2065,0,39,239,169,105,218,4056,133,205,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas and Oil to facility.  Dumping sand traps once an hour. Power back On, on facility at 2:53 pm",0
+Janey 81h,210,43620.66667,2059,0,39,261,173,106,220,3768,129,210,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Switched H2O back to facility at 3:30 pm",0
+Janey 81h,211,43620.70833,2052,0,39,278,172,110,210,4008,129,225,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,212,43620.75,2046,0,39,275,175,107,218,3936,131,225,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,213,43620.79167,2041,0,39,280,177,109,231,4008,129,225,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,214,43620.83333,2036,0,39,280,175,109,230,3960,130,230,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,215,43620.875,2029,0,39,275,175,106,228,3984,130,230,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,216,43620.91667,2024,0,39,275,170,114,233,4248,126,230,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,217,43620.95833,2021,0,39,270,175,110,226,3936,125,225,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,218,43621,2018,0,39,274,177,112,233,4032,125,225,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,219,43621.04167,2007,0,39,286,177,111,237,4128,126,230,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,220,43621.08333,2001,0,39,278,167,109,236,4176,127,220,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,221,43621.125,1995,0,39,282,171,114,235,4272,125,220,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,222,43621.16667,1989,0,39,281,174,111,236,4248,124,225,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,223,43621.20833,1983,0,39,278,167,110,228,4296,123,220,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,224,43621.25,1978,0,39,275,165,109,236,4176,124,220,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,225,43621.29167,1997,0,39,273,170,106,210,3792,124,220,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,226,43621.33333,1995,0,39,265,172,105,223,3768,127,225,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,227,43621.375,1995,0,39,261,162,102,213,4176,127,210,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,228,43621.41667,1993,0,39,263,161,105,220,3432,129,210,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,229,43621.45833,1992,0,39,261,169,106,225,3436,130,210,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,230,43621.5,1990,0,39,269,173,102,226,3408,131,210,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,231,43621.54167,1983,0,39,270,171,105,223,3888,133,215,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,232,43621.58333,1974,0,39,272,162,105,223,3984,130,215,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,233,43621.625,1964,0,40,268,169,106,224,3960,130,210,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Bumped up choke to 38/128 at 2:00 pm.",0
+Janey 81h,234,43621.66667,1959,0,40,253,160,104,226,3984,131,200,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,235,43621.70833,1955,0,40,259,162,111,247,4104,130,200,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,236,43621.75,1952,0,40,259,160,113,251,3984,130,200,26520,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,237,43621.79167,1946,0,40,263,162,112,225,4176,133,220,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,238,43621.83333,1941,0,40,267,162,110,238,4080,125,220,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,239,43621.875,1937,0,40,264,163,114,236,4176,125,220,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,240,43621.91667,1933,0,40,276,154,112,238,4176,124,220,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,241,43621.95833,1927,0,40,229,160,107,208,3864,125,215,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,242,43622,1922,0,40,279,167,118,233,4296,126,220,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,243,43622.04167,1919,0,40,272,167,108,225,4104,128,210,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,244,43622.08333,1912,0,40,285,168,118,248,4272,128,225,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,245,43622.125,1906,0,40,282,172,119,240,4248,128,230,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,246,43622.16667,1900,0,40,281,167,114,247,4272,127,220,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,247,43622.20833,1895,0,40,289,163,124,250,4392,126,230,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,248,43622.25,1892,0,40,280,161,119,251,4272,128,230,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,249,43622.29167,1886,0,40,271,169,122,250,4200,132,230,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,250,43622.33333,1879,0,40,273,164,123,250,4215,133,230,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,251,43622.375,1875,0,40,278,169,122,250,4320,133,230,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,252,43622.41667,1868,0,40,269,173,123,250,4440,132,230,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,253,43622.45833,1863,0,40,277,165,122,250,4752,130,230,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,254,43622.5,1857,0,40,273,173,126,251,4608,130,230,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,255,43622.54167,1841,0,40,271,170,131,275,4752,130,230,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,256,43622.58333,1819,0,42,279,172,136,277,4800,132,230,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.bumped choke up to a 42/128 size at 1:15 pm.",0
+Janey 81h,257,43622.625,1812,0,42,268,176,136,272,5112,130,230,28511,2,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,258,43622.66667,1806,0,42,265,181,136,278,5304,131,230,28511,2,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,259,43622.70833,1800,0,42,271,173,139,282,5280,130,230,28511,2,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,260,43622.75,1793,0,42,329,170,148,285,5376,130,250,28511,2,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,261,43622.79167,1788,0,42,324,171,141,288,5544,135,250,28511,2,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,262,43622.83333,1779,0,42,322,169,147,277,5544,131,250,28511,2,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,263,43622.875,1775,0,42,324,166,142,301,5568,130,255,28511,2,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,264,43622.91667,1769,0,42,325,166,145,293,5640,131,255,28511,2,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,265,43622.95833,1751,0,42,323,166,144,293,5616,132,240,28511,2,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,266,43623,1749,0,42,325,158,140,269,5376,133,250,28511,2,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,267,43623.04167,1747,0,42,322,160,145,289,5424,130,245,28511,2,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,268,43623.08333,1742,0,42,326,166,146,290,5664,129,250,28511,2,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,269,43623.125,1731,0,42,329,166,145,289,5616,128,250,28511,2,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,270,43623.16667,1726,0,42,328,166,149,294,5664,129,245,28511,2,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,271,43623.20833,1719,0,42,328,158,151,300,5760,130,250,28511,2,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,272,43623.25,1710,0,42,326,157,154,312,6000,131,250,28511,2,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,273,43623.29167,1700,0,42,322,166,151,284,5568,133,260,28511,2,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,274,43623.33333,1691,0,42,319,164,151,297,5784,130,255,28511,2,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,275,43623.375,1686,0,42,323,164,152,297,5880,131,260,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,276,43623.41667,1679,0,42,333,163,152,305,5736,132,250,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,277,43623.45833,1672,0,42,332,157,151,302,5736,133,250,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,278,43623.5,1663,0,42,334,162,152,311,5736,134,250,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,279,43623.54167,1667,0,42,333,150,153,299,5760,134,250,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,280,43623.58333,1651,0,42,335,145,155,311,5880,131,245,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,281,43623.625,1642,0,44,335,168,157,310,5808,137,250,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.  Choke change 44/128.",0
+Janey 81h,282,43623.66667,1623,0,44,352,166,164,322,5904,138,260,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,283,43623.70833,1608,0,46,355,178,165,328,5952,134,265,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Choke change 46/128.",0
+Janey 81h,284,43623.75,1598,0,46,364,178,164,323,6024,135,270,28511,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,285,43623.79167,1588,0,46,356,182,164,324,6096,135,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,286,43623.83333,1581,0,46,366,177,175,335,6288,133,275,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,287,43623.875,1574,0,46,366,179,174,343,6408,131,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,288,43623.91667,1567,0,46,364,180,168,345,6192,133,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,289,43623.95833,1561,0,46,364,177,166,310,6336,133,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,290,43624,1555,0,46,363,172,169,337,6480,132,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,291,43624.04167,1549,0,46,363,171,171,332,6576,129,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,292,43624.08333,1542,0,46,362,172,172,330,6504,130,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,293,43624.125,1536,0,46,362,169,171,330,6456,129,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,294,43624.16667,1530,0,46,362,173,171,326,6456,130,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,295,43624.20833,1525,0,46,362,171,173,328,6576,129,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,296,43624.25,1521,0,46,363,170,173,328,6574,128,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,297,43624.29167,1514,0,46,364,167,168,323,6384,129,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,298,43624.33333,1508,0,46,363,171,173,322,6360,129,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,299,43624.375,1501,0,46,365,166,169,332,6360,131,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,300,43624.41667,1490,0,46,366,165,170,328,6288,130,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.bumped choke up to 48/128 size to reach a 550 bbl's rate.",0
+Janey 81h,301,43624.45833,1475,0,48,366,166,171,325,7008,129,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,302,43624.5,1468,0,48,364,168,173,345,7120,132,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,303,43624.54167,1459,0,50,364,170,179,350,6696,133,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.Bumped up choke to 50/128 at 12:30 pm.",0
+Janey 81h,304,43624.58333,1450,0,50,363,169,180,351,6696,133,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,305,43624.625,1441,0,50,365,170,179,350,6600,130,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,306,43624.66667,1435,0,50,364,173,180,351,6480,131,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,307,43624.70833,1426,0,50,363,170,179,351,6600,130,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,308,43624.75,1424,0,50,369,161,177,337,6696,134,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,309,43624.79167,1408,0,50,364,161,175,342,6576,140,260,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,310,43624.83333,1397,0,50,364,162,171,347,6480,138,260,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,311,43624.875,1393,0,50,365,162,173,344,6432,134,260,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,312,43624.91667,1389,0,50,365,157,171,350,6432,132,265,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,313,43624.95833,1386,0,50,365,161,178,356,6648,135,265,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,314,43625,1384,0,50,366,161,165,336,6264,134,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,315,43625.04167,1378,0,50,365,161,174,351,6552,132,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,316,43625.08333,1370,0,50,362,159,172,349,6384,133,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,317,43625.125,1365,0,50,361,160,168,348,6456,132,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,318,43625.16667,1358,0,50,360,159,173,348,6432,131,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,319,43625.20833,1355,0,50,360,157,167,344,6216,131,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,320,43625.25,1349,0,50,360,160,171,358,6240,130,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,321,43625.29167,1343,0,50,363,155,164,336,6216,130,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,322,43625.33333,1337,0,50,364,156,165,395,6408,129,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,323,43625.375,1332,0,50,366,160,167,346,6288,129,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,324,43625.41667,1326,0,50,364,167,165,346,6480,130,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Bumped up choke to 52/128 at 10:00 am.",0
+Janey 81h,325,43625.45833,1321,0,52,366,170,168,342,6168,131,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,326,43625.5,1318,0,52,366,170,170,395,6576,133,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,327,43625.54167,1312,0,52,370,167,164,352,6288,131,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,328,43625.58333,1307,0,54,370,186,161,342,6192,133,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Bumped p choke to 54/128 at 1:30 pm.",0
+Janey 81h,329,43625.625,1301,0,54,372,166,169,361,5880,135,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,330,43625.66667,1296,0,56,372,165,166,350,7128,135,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Bumped up choke to 56/128 at 3:30 pm.",0
+Janey 81h,331,43625.70833,1290,0,56,371,172,171,361,6576,135,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,332,43625.75,1253,0,56,370,162,167,301,6264,134,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,333,43625.79167,1254,0,56,383,160,166,395,6168,130,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,334,43625.83333,1250,0,56,384,159,168,375,6432,132,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,335,43625.875,1250,0,56,384,164,161,353,6264,130,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,336,43625.91667,1249,0,56,385,168,168,373,6504,125,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,337,43625.95833,1246,0,56,382,166,170,357,6456,125,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,338,43626,1244,0,56,382,165,169,360,6576,123,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,339,43626.04167,1242,0,56,385,161,172,357,6528,123,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,340,43626.08333,1240,0,56,381,164,176,351,6624,122,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,341,43626.125,1237,0,56,387,165,168,352,6504,125,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,342,43626.16667,1234,0,56,382,161,173,339,6360,124,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,343,43626.20833,1230,0,56,382,165,174,350,6504,123,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,344,43626.25,1227,0,56,381,165,180,346,6768,123,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,345,43626.29167,1226,0,56,385,163,167,342,6672,129,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,346,43626.33333,1223,0,56,383,170,175,342,6648,131,270,29118,1,0,"Flowing Well through SKO, manifold and separator. Gas, H2O and Oil to facility.  Dumping sand traps once an hour.",0
+Janey 81h,347,43626.375,1220,0,60,0,168,173,350,6648,131,270,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Bypassing loc separator and bumped choke at 8:50 am to 57/128 size.",0
+Janey 81h,348,43626.41667,1206,0,60,0,164,174,343,7536,133,270,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,349,43626.45833,1202,0,60,0,166,173,337,7008,132,270,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,350,43626.5,1198,0,60,0,170,184,348,6960,131,270,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,351,43626.54167,1195,0,60,0,163,178,355,6864,133,270,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,352,43626.58333,1192,0,60,0,172,176,337,7080,133,270,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,353,43626.625,1188,0,60,0,168,178,328,6624,132,275,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,354,43626.66667,1185,0,60,0,170,176,356,6964,131,275,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,355,43626.70833,1180,0,60,0,169,181,339,6888,130,275,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,356,43626.75,1177,0,60,0,173,175,330,6792,123,280,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,357,43626.79167,1170,0,60,0,169,177,335,6768,125,280,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,358,43626.83333,1169,0,60,0,171,181,331,6768,127,280,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,359,43626.875,1165,0,60,0,177,174,328,6336,127,275,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,360,43626.91667,1161,0,60,0,170,173,333,6720,127,275,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,361,43626.95833,1158,0,60,0,174,174,325,6096,125,275,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,362,43627,1155,0,60,0,173,168,321,6600,128,275,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,363,43627.04167,1152,0,60,0,172,177,326,6744,126,275,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,364,43627.08333,1147,0,60,0,172,176,330,6744,125,275,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,365,43627.125,1144,0,60,0,171,172,325,6648,124,275,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,366,43627.16667,1140,0,60,0,172,173,326,6768,127,275,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,367,43627.20833,1137,0,60,0,169,173,330,6744,125,270,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,368,43627.25,1133,0,60,0,171,174,332,6744,126,275,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,369,43627.29167,1129,0,60,0,169,170,316,6600,131,270,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,370,43627.33333,1124,0,60,0,173,169,316,6840,130,270,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,371,43627.375,1121,0,64,0,177,173,318,7248,131,270,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed. Bumped choke up to 64/128 size at 8:10 am.",0
+Janey 81h,372,43627.41667,1116,0,64,0,171,176,336,6840,132,270,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,373,43627.45833,1109,0,64,0,172,173,314,6624,133,270,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,374,43627.5,1105,0,64,0,173,176,327,6792,132,270,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,375,43627.54167,1103,0,64,0,175,176,320,6648,133,270,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,376,43627.58333,1100,0,64,0,180,172,321,6672,132,270,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,377,43627.625,1097,0,64,0,180,178,329,6720,134,270,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,378,43627.66667,1094,0,64,0,180,172,316,6624,134,270,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,379,43627.70833,1092,0,64,0,179,173,318,6624,133,270,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,380,43627.75,1087,0,64,0,184,171,309,6576,131,280,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,381,43627.79167,1081,0,64,0,177,173,319,6552,135,275,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,382,43627.83333,1079,0,64,0,180,171,313,6504,137,275,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,383,43627.875,1077,0,64,0,177,175,296,6624,134,275,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,384,43627.91667,1075,0,64,0,175,171,314,6552,130,275,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,385,43627.95833,1072,0,64,0,170,171,314,6552,127,275,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,386,43628,1070,0,64,0,167,169,312,6528,126,275,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,387,43628.04167,1067,0,64,0,170,169,306,6504,125,270,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,388,43628.08333,1063,0,64,0,168,169,310,6528,126,270,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,389,43628.125,1060,0,64,0,166,174,316,6624,125,265,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,390,43628.16667,1057,0,64,0,165,169,306,6528,126,265,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,391,43628.20833,1054,0,64,0,168,175,313,6696,127,265,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,392,43628.25,1050,0,64,0,165,174,312,6688,127,265,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,393,43628.29167,1049,0,64,0,168,170,308,6600,125,260,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,394,43628.33333,1047,0,64,0,169,167,305,6504,127,260,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,395,43628.375,1045,0,64,0,169,170,308,6624,127,260,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,396,43628.41667,1041,0,64,0,170,168,301,6720,129,260,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,397,43628.45833,1039,0,64,0,166,162,296,6288,130,260,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,398,43628.5,1036,0,64,0,168,168,305,6624,131,260,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,399,43628.54167,1034,0,64,0,169,168,301,6552,132,260,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,400,43628.58333,1032,0,64,0,166,168,299,6528,134,260,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,401,43628.625,1030,0,64,0,167,166,308,6552,136,260,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,402,43628.66667,1018,0,64,0,164,161,288,6360,136,260,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,403,43628.70833,1026,0,64,0,168,165,305,6520,135,260,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,404,43628.75,1022,0,64,0,157,166,294,6576,134,260,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once an hour. Loc separator bypassed.",0
+Janey 81h,405,43628.79167,1020,0,64,0,161,160,286,6360,132,250,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,406,43628.83333,1018,0,64,0,155,164,296,6456,134,250,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,407,43628.875,1016,0,64,0,162,163,277,6408,133,250,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,408,43628.91667,1014,0,64,0,154,167,310,6528,128,250,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,409,43628.95833,1010,0,64,0,159,162,286,6408,128,259,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,410,43629,1008,0,64,0,156,161,292,6384,127,250,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,411,43629.04167,1006,0,64,0,158,161,287,6408,127,250,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,412,43629.08333,1005,0,64,0,155,165,289,6408,126,250,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,413,43629.125,1003,0,64,0,160,164,288,6432,127,250,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,414,43629.16667,1000,0,64,0,156,160,290,6360,124,250,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,415,43629.20833,999,0,64,0,156,167,291,6528,125,250,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,416,43629.25,997,0,64,0,159,162,291,6432,125,250,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,417,43629.29167,995,0,64,0,158,157,297,6312,125,255,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,418,43629.33333,993,0,64,0,154,161,285,6408,126,255,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,419,43629.375,991,0,64,0,154,159,283,6192,129,255,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,420,43629.41667,988,0,64,0,155,163,285,6312,129,255,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,421,43629.45833,985,0,64,0,158,161,286,6336,129,255,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,422,43629.5,984,0,64,0,155,163,285,6312,129,255,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,423,43629.54167,981,0,64,0,159,158,280,6240,133,260,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,424,43629.58333,979,0,64,0,159,162,282,6456,132,260,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,425,43629.625,976,0,64,0,159,156,279,6120,133,260,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,426,43629.66667,974,0,64,0,158,158,278,6216,133,260,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,427,43629.70833,973,0,64,0,159,161,280,6332,134,260,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,428,43629.75,971,0,64,0,164,161,279,6384,132,250,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every two hours. Loc separator bypassed.",0
+Janey 81h,429,43629.79167,968,0,64,0,164,155,275,6096,127,250,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,430,43629.83333,966,0,64,0,168,157,274,6120,123,250,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,431,43629.875,965,0,64,0,166,160,279,6240,122,250,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,432,43629.91667,963,0,64,0,165,156,270,6048,124,250,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,433,43629.95833,962,0,64,0,161,162,278,6216,125,250,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,434,43630,960,0,64,0,163,158,275,6240,122,240,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,435,43630.04167,957,0,64,0,160,156,277,6096,124,240,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,436,43630.08333,955,0,64,0,158,157,273,6096,125,240,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,437,43630.125,954,0,64,0,162,156,268,6096,126,240,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,438,43630.16667,952,0,64,0,158,156,272,6072,127,240,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,439,43630.20833,950,0,64,0,157,160,273,6154,125,240,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,440,43630.25,948,0,64,0,158,158,274,6144,129,240,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,441,43630.29167,948,0,64,0,158,154,267,6408,130,235,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,442,43630.33333,947,0,64,0,153,154,268,5688,131,235,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,443,43630.375,946,0,64,0,157,153,266,6024,132,235,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,444,43630.41667,944,0,64,0,154,153,267,6192,131,235,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,445,43630.45833,942,0,64,0,160,154,268,5928,133,235,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,446,43630.5,939,0,64,0,159,154,266,6000,133,235,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,447,43630.54167,937,0,64,0,159,154,266,6072,135,235,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,448,43630.58333,935,0,64,0,161,154,266,5976,136,235,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,449,43630.625,933,0,64,0,162,154,266,5976,134,235,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,450,43630.66667,931,0,64,0,161,154,265,6048,134,235,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,451,43630.70833,930,0,64,0,163,153,267,5928,134,235,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,452,43630.75,927,0,64,0,159,151,251,5856,136,240,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every three hours. ",0
+Janey 81h,453,43630.79167,924,0,64,0,155,151,262,5904,133,240,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,454,43630.83333,921,0,64,0,157,155,264,6000,130,240,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,455,43630.875,920,0,64,0,159,151,268,5904,130,240,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,456,43630.91667,920,0,64,0,151,151,264,5928,128,240,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,457,43630.95833,918,0,64,0,154,153,261,6000,129,240,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,458,43631,916,0,64,0,154,152,257,5904,128,240,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,459,43631.04167,915,0,64,0,148,150,262,5904,129,230,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,460,43631.08333,913,0,64,0,152,150,253,5904,127,230,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,461,43631.125,911,0,64,0,154,153,260,6000,126,230,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,462,43631.16667,910,0,64,0,153,151,257,5880,130,230,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,463,43631.20833,910,0,64,0,154,149,260,5952,130,230,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,464,43631.25,910,0,64,0,154,153,264,5976,131,230,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,465,43631.29167,908,0,64,0,151,148,256,5880,135,230,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,466,43631.33333,906,0,64,0,155,147,250,5856,134,230,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,467,43631.375,903,0,64,0,152,154,257,5976,134,230,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,468,43631.41667,900,0,64,0,148,146,254,5616,135,230,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,469,43631.45833,898,0,64,0,150,148,251,5856,135,230,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,470,43631.5,896,0,64,0,152,154,256,5616,134,230,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,471,43631.54167,896,0,64,0,148,148,251,5856,134,225,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,472,43631.58333,894,0,64,0,151,148,252,5832,134,225,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,473,43631.625,892,0,64,0,153,147,247,5832,134,225,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,474,43631.66667,891,0,64,0,154,149,255,5832,134,225,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,475,43631.70833,891,0,64,0,152,148,255,5856,134,225,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,476,43631.75,888,0,64,0,152,144,244,5856,134,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every four hours. ",0
+Janey 81h,477,43631.79167,886,0,64,0,147,148,252,5832,129,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,478,43631.83333,885,0,64,0,147,146,248,5808,127,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,479,43631.875,883,0,64,0,150,139,254,5880,127,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,480,43631.91667,882,0,64,0,154,140,253,5832,124,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,481,43631.95833,880,0,64,0,148,153,238,5823,121,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,482,43632,880,0,64,0,150,158,242,5880,120,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,483,43632.04167,878,0,64,0,149,143,245,5784,120,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,484,43632.08333,876,0,64,0,148,140,262,5760,118,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,485,43632.125,874,0,64,0,152,141,240,5880,117,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,486,43632.16667,874,0,64,0,148,157,232,5784,116,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,487,43632.20833,873,0,64,0,149,139,266,5832,117,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,488,43632.25,872,0,64,0,151,144,258,5880,119,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,489,43632.29167,870,0,64,0,150,154,243,5928,126,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,490,43632.33333,868,0,64,0,143,145,244,5640,125,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,491,43632.375,866,0,64,0,148,146,244,5760,129,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,492,43632.41667,864,0,64,0,147,145,244,5736,131,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,493,43632.45833,862,0,64,0,145,146,243,5808,131,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,494,43632.5,860,0,64,0,148,146,244,5640,130,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,495,43632.54167,859,0,64,0,151,143,239,5616,132,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,496,43632.58333,858,0,64,0,151,143,240,5688,132,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,497,43632.625,857,0,64,0,152,143,239,5760,133,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,498,43632.66667,856,0,64,0,153,143,240,5664,133,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,499,43632.70833,856,0,64,0,151,144,240,5664,132,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,500,43632.75,854,0,64,0,140,140,237,5664,130,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every five hours. ",0
+Janey 81h,501,43632.79167,853,0,64,0,149,142,239,5640,129,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,502,43632.83333,851,0,64,0,148,141,237,5760,125,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,503,43632.875,850,0,64,0,145,142,234,5664,122,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,504,43632.91667,849,0,64,0,141,142,235,5688,120,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,505,43632.95833,847,0,64,0,141,141,234,5688,118,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,506,43633,846,0,64,0,145,143,236,5760,119,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,507,43633.04167,844,0,64,0,140,141,241,5712,118,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,508,43633.08333,843,0,64,0,139,145,221,5664,118,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,509,43633.125,842,0,64,0,140,136,239,5640,119,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,510,43633.16667,841,0,64,0,139,143,244,5736,119,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,511,43633.20833,840,0,64,0,135,138,234,5736,118,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,512,43633.25,839,0,64,0,135,140,230,5712,118,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,513,43633.29167,838,0,64,0,140,140,231,5616,131,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,514,43633.33333,836,0,64,0,136,140,230,5712,132,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,515,43633.375,835,0,64,0,138,141,231,5616,134,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,516,43633.41667,834,0,64,0,142,141,230,5616,132,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,517,43633.45833,832,0,64,0,137,140,231,5688,134,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,518,43633.5,831,0,64,0,139,140,230,5616,134,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,519,43633.54167,830,0,64,0,141,138,228,5688,133,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,520,43633.58333,829,0,64,0,141,139,229,5568,133,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,521,43633.625,828,0,64,0,138,138,229,5568,132,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,522,43633.66667,827,0,64,0,144,139,229,5616,132,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,523,43633.70833,826,0,64,0,142,138,228,5688,133,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,524,43633.75,824,0,64,0,142,135,206,5448,134,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every six hours. ",0
+Janey 81h,525,43633.79167,824,0,64,0,146,133,236,5616,134,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,526,43633.83333,822,0,64,0,142,142,226,5496,132,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,527,43633.875,820,0,64,0,140,137,232,5556,132,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,528,43633.91667,819,0,64,0,138,137,233,5556,132,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,529,43633.95833,818,0,64,0,146,134,215,5496,129,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,530,43634,817,0,64,0,146,135,223,5472,127,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,531,43634.04167,816,0,64,0,144,130,228,5496,128,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,532,43634.08333,815,0,64,0,143,130,230,5520,130,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,533,43634.125,815,0,64,0,137,138,221,5472,130,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,534,43634.16667,814,0,64,0,142,142,225,5568,129,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,535,43634.20833,814,0,64,0,143,131,236,5520,130,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,536,43634.25,813,0,64,0,137,138,218,5472,131,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,537,43634.29167,811,0,64,0,137,136,221,5448,132,205,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,538,43634.33333,809,0,64,0,137,135,222,5472,132,205,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,539,43634.375,807,0,64,0,134,135,222,5424,134,205,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,540,43634.41667,805,0,64,0,135,136,221,5544,134,205,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,541,43634.45833,804,0,64,0,141,136,221,5448,133,205,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,542,43634.5,803,0,64,0,137,135,222,5424,133,205,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,543,43634.54167,802,0,64,0,144,136,215,5424,134,205,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,544,43634.58333,801,0,64,0,144,135,216,5424,134,205,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,545,43634.625,800,0,64,0,145,136,215,5400,135,205,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,546,43634.66667,799,0,64,0,147,135,216,5376,135,205,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,547,43634.70833,799,0,64,0,147,136,218,5488,135,205,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,548,43634.75,797,0,64,0,149,137,226,5352,132,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every seven hours. ",0
+Janey 81h,549,43634.79167,795,0,64,0,144,137,203,5376,130,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,550,43634.83333,795,0,64,0,144,135,222,5472,131,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,551,43634.875,794,0,64,0,138,135,226,5352,133,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,552,43634.91667,794,0,64,0,146,130,213,5352,132,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,553,43634.95833,792,0,64,0,144,138,216,5448,132,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,554,43635,791,0,64,0,139,134,220,5352,132,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,555,43635.04167,791,0,64,0,140,135,205,5352,130,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,556,43635.08333,790,0,64,0,140,132,216,5376,129,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,557,43635.125,788,0,64,0,144,133,215,5376,128,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,558,43635.16667,787,0,64,0,142,132,224,5250,129,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,559,43635.20833,786,0,64,0,141,140,214,5520,128,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,560,43635.25,786,0,64,0,142,139,220,5520,129,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,561,43635.29167,784,0,64,0,140,132,211,5304,130,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,562,43635.33333,784,0,64,0,141,131,207,5304,130,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,563,43635.375,783,0,64,0,141,133,212,5280,131,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,564,43635.41667,782,0,64,0,140,140,226,5520,134,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,565,43635.45833,782,0,64,0,140,140,225,5520,134,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,566,43635.5,780,0,64,0,141,136,223,5568,135,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,567,43635.54167,776,0,64,0,150,143,221,5568,136,205,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. Took off second sand hog, rigged it down and moved it to the side of location.",0
+Janey 81h,568,43635.58333,772,0,64,0,150,142,220,5640,136,205,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,569,43635.625,767,0,64,0,151,142,221,5664,136,205,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,570,43635.66667,764,0,64,0,156,138,220,5544,135,205,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,571,43635.70833,761,0,64,0,154,142,213,5448,135,205,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,572,43635.75,758,0,64,0,156,134,224,5520,136,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every eight hours. ",0
+Janey 81h,573,43635.79167,756,0,64,0,151,146,220,5616,137,220,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every nine hours. ",0
+Janey 81h,574,43635.83333,755,0,64,0,155,136,226,5472,136,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every nine hours. ",0
+Janey 81h,575,43635.875,754,0,64,0,155,139,207,5400,133,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every nine hours. ",0
+Janey 81h,576,43635.91667,752,0,64,0,156,136,227,5448,133,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every nine hours. ",0
+Janey 81h,577,43635.95833,751,0,64,0,158,141,231,5640,132,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every nine hours. ",0
+Janey 81h,578,43636,750,0,64,0,157,140,212,5448,130,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every nine hours. ",0
+Janey 81h,579,43636.04167,749,0,64,0,161,135,214,5448,133,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every nine hours. ",0
+Janey 81h,580,43636.08333,747,0,64,0,157,145,221,5400,131,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every nine hours. ",0
+Janey 81h,581,43636.125,747,0,64,0,151,135,216,5400,128,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every nine hours. ",0
+Janey 81h,582,43636.16667,745,0,64,0,155,141,217,5448,127,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every nine hours. ",0
+Janey 81h,583,43636.20833,743,0,64,0,152,143,216,5568,127,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every nine hours. ",0
+Janey 81h,584,43636.25,741,0,64,0,155,140,218,5448,130,210,29118,1,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every nine hours. ",0
+Janey 81h,585,43636.29167,739,0,64,0,156,141,207,5400,132,210,29118,0.5,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 10 hours. ",0
+Janey 81h,586,43636.33333,737,0,64,0,152,134,233,5352,132,210,29118,0.5,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 10 hours. ",0
+Janey 81h,587,43636.375,737,0,64,0,150,138,203,5376,133,210,29118,0.5,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 10 hours. ",0
+Janey 81h,588,43636.41667,735,0,64,0,152,139,219,5448,132,210,29118,0.5,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 10 hours. ",0
+Janey 81h,589,43636.45833,735,0,64,0,156,133,210,5328,134,210,29118,0.5,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 10 hours. ",0
+Janey 81h,590,43636.5,734,0,64,0,157,135,212,5352,134,210,29118,0.5,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 10 hours. ",0
+Janey 81h,591,43636.54167,733,0,64,0,161,139,209,5256,134,215,29118,0.5,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 10 hours. ",0
+Janey 81h,592,43636.58333,732,0,64,0,163,138,215,5304,134,215,29118,0.5,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 10 hours. ",0
+Janey 81h,593,43636.625,731,0,64,0,167,137,217,5304,134,215,29118,0.5,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 10 hours. ",0
+Janey 81h,594,43636.66667,730,0,64,0,179,139,203,5184,134,220,29118,0.5,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 10 hours. ",0
+Janey 81h,595,43636.70833,729,0,64,0,169,132,232,5256,134,220,29118,0.5,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 10 hours. ",0
+Janey 81h,596,43636.75,728,0,64,0,161,129,208,5304,138,225,29118,0.5,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 10 hours. ",0
+Janey 81h,597,43636.79167,727,0,64,0,157,138,214,5280,137,220,29118,0.3,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 12 hours. ",0
+Janey 81h,598,43636.83333,725,0,64,0,156,128,224,5352,135,225,29118,0.3,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 12 hours. ",0
+Janey 81h,599,43636.875,725,0,64,0,153,130,224,5352,135,220,29118,0.3,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 12 hours. ",0
+Janey 81h,600,43636.91667,724,0,64,0,152,134,212,5304,131,220,29118,0.3,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 12 hours. ",0
+Janey 81h,601,43636.95833,723,0,64,0,149,130,229,5328,129,220,29118,0.3,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 12 hours. ",0
+Janey 81h,602,43637,721,0,64,0,144,140,236,5376,130,210,29118,0.3,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 12 hours. ",0
+Janey 81h,603,43637.04167,720,0,64,0,148,134,223,5280,130,210,29118,0.3,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 12 hours. ",0
+Janey 81h,604,43637.08333,719,0,64,0,148,132,219,5280,129,210,29118,0.3,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 12 hours. ",0
+Janey 81h,605,43637.125,718,0,64,0,147,132,233,5352,128,210,29118,0.3,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 12 hours. ",0
+Janey 81h,606,43637.16667,717,0,64,0,152,132,219,5352,128,210,29118,0.3,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 12 hours. ",0
+Janey 81h,607,43637.20833,715,0,64,0,146,138,228,5328,129,210,29118,0.3,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 12 hours. ",0
+Janey 81h,608,43637.25,714,0,64,0,155,132,203,5232,131,210,29118,0.3,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 12 hours. ",0
+Janey 81h,609,43637.29167,713,0,64,0,154,132,232,5376,133,210,29118,0.3,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 12 hours. ",0
+Janey 81h,610,43637.33333,713,0,64,0,154,130,197,5136,133,210,29118,0.3,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 12 hours. ",0
+Janey 81h,611,43637.375,712,0,64,0,156,129,216,5208,132,210,29118,0.3,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 12 hours. ",0
+Janey 81h,612,43637.41667,712,0,64,0,156,133,212,5148,132,210,29118,0.3,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 12 hours. ",0
+Janey 81h,613,43637.45833,711,0,64,0,158,132,214,5328,134,210,29118,0.3,0,"Flowing Well through SKO, manifold. Gas, H2O and Oil to facility.  Dumping sand traps once every 12 hours. ",0
+Janey 81h,614,43637.5,711,0,64,0,156,130,212,5208,133,210,29118,0,0,0,0
